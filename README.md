@@ -33,8 +33,8 @@ Arch Linux with KDE Plasma & hyperland
 
 ### 📈 GitHub Stats
 
-[![Kamalesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iharishragav&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iharishragav&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Kamalesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamalesh-sudo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamalesh-sudo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
