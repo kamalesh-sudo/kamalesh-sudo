@@ -42,7 +42,7 @@ Arch Linux with KDE Plasma & hyperland
 ### 🤝 Connect with Me
 
 [<img align="left" alt="Kamalesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kamalesh-s-260588305/)
-[<img align="left" alt="Kamalesh | Bugcrowd" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetexplorer.svg" />](https://bugcrowd.com/h/kamalesh2428k)
+[<img align="left" alt="Kamalesh | Bugcrowd" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetexplorer.svg" />](https://kamalesh-sudo.github.io/kamalesh-portfolio/)
 
 
 
