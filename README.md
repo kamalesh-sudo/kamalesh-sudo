@@ -268,7 +268,6 @@ TARGET
    🎯 Ship projects that have security built into the deploy process
    🎯 Contribute to open-source DevSecOps tooling
    🎯 Land a DevSecOps / AppSec Engineer role
-```
 
 ---
 
