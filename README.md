@@ -62,17 +62,17 @@ print(me)
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-EE0000?style=for-the-badge&logo=airplayaudio&logoColor=white)
 ![Gobuster](https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logo=go&logoColor=white)
 ![ffuf](https://img.shields.io/badge/ffuf-005C84?style=for-the-badge&logo=fastapi&logoColor=white)
-![zap](https://img.shields.io/badge/Zap-CC0000?style=for-the-badge&logo=nginx&logoColor=white)
+![zap](https://img.shields.io/badge/Owasp-Zap-CC0000?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### ⚙️ Dev & Infra Tools
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### 🖥️ Operating System
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
 
 ---
 
