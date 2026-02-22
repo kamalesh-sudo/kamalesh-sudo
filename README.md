@@ -53,7 +53,6 @@ print(me)
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### 🧰 Security & Hacking Tools
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
@@ -63,7 +62,7 @@ print(me)
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-EE0000?style=for-the-badge&logo=airplayaudio&logoColor=white)
 ![Gobuster](https://img.shields.io/badge/Gobuster-000000?style=for-the-badge&logo=go&logoColor=white)
 ![ffuf](https://img.shields.io/badge/ffuf-005C84?style=for-the-badge&logo=fastapi&logoColor=white)
-![Nikto](https://img.shields.io/badge/Nikto-CC0000?style=for-the-badge&logo=nginx&logoColor=white)
+![zap](https://img.shields.io/badge/Zap-CC0000?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### ⚙️ Dev & Infra Tools
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
