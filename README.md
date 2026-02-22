@@ -97,11 +97,11 @@ class Kamalesh:
 
 ## 🗺️ Roadmap — Where I'm Headed
 
-```
-DONE
+```DONE
    ✅ Backend Dev (Node.js, Python, REST APIs)
    ✅ Penetration Testing (Web App, Network, OWASP Top 10)
    ✅ Linux Power User (Arch, shell scripting, automation)
+```
 <div align="center">
 
 <!-- Animated Header Banner -->
