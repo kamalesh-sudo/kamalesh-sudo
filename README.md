@@ -90,8 +90,8 @@ class Kamalesh:
 
 ### 🧪 Automated QA — Learning & Building
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
@@ -99,7 +99,7 @@ class Kamalesh:
 
 ```
 DONE
-   ✅ Backend Dev (Node.js, Python, REST APIs)
+   ✅ Backend Dev (Python, REST APIs, FastAPI/Flask)
    ✅ Penetration Testing (Web App, Network, OWASP Top 10)
    ✅ Linux Power User (Arch, shell scripting, automation)
 
@@ -108,31 +108,33 @@ IN PROGRESS
    🔄 SAST with SonarQube + secret scanning
    🔄 DAST with OWASP ZAP in automated pipelines
    🔄 Container hardening & image scanning (Trivy, Docker Bench)
-   🔄 Automated QA test suites with security assertions (Pytest + Playwright)
+   🔄 Automated QA test suites with security assertions (Pytest + Selenium)
 
 TARGET
    🎯 Ship projects that have security built into the deploy process
    🎯 Contribute to open-source DevSecOps tooling
-   🎯 Land a DevSecOps / AppSec Engineer role
+   🎯 Land a DevSecOps / Automation QA Engineer role
 ```
 
 ---
-
-
 
 ## ✨ Projects
 
 <div align="center">
 
-[![Neurosploit](https://github-readme-stats.vercel.app/api/pin/?username=iharishragav&repo=neurosploit&theme=tokyonight&border_color=e94560)](https://github.com/iharishragav/neurosploit)
-[![Smooth Satellite Visualization](https://github-readme-stats.vercel.app/api/pin/?username=iharishragav&repo=Smooth-Visualization-of-Satellite-Imagery&theme=tokyonight&border_color=e94560)](https://github.com/iharishragav/Smooth-Visualization-of-Satellite-Imagery)
+<a href="https://github.com/kamalesh-sudo/neurosploit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamalesh-sudo&repo=neurosploit&theme=tokyonight&border_color=e94560"/>
+</a>
+<a href="https://github.com/kamalesh-sudo/Smooth-Visualization-of-Satellite-Imagery">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kamalesh-sudo&repo=Smooth-Visualization-of-Satellite-Imagery&theme=tokyonight&border_color=e94560"/>
+</a>
 
 </div>
 
 | 🚀 Project | 📝 What it demonstrates | Status |
 |---|---|---|
-| **[Neurosploit](https://github.com/iharishragav/neurosploit)** | AI recon tool — backend + security tooling combined | ✅ Live |
-| **[SIH Frame Interpolation](https://github.com/iharishragav/Smooth-Visualization-of-Satellite-Imagery)** | AI/ML applied project — Hackathon | ✅ Live |
+| **[Neurosploit](https://github.com/kamalesh-sudo/neurosploit)** | Modular API testing framework — backend + security tooling combined | ✅ Live |
+| **[SIH Frame Interpolation](https://github.com/kamalesh-sudo/Smooth-Visualization-of-Satellite-Imagery)** | AI/ML satellite imagery pipeline — SIH 2024 National Finalist | ✅ Live |
 | **Secure CI/CD Pipeline Template** | GitHub Actions + SAST + DAST + container scan | 🔄 Building |
 | **API Security Test Suite** | Automated pentest assertions with Pytest | 🔄 Building |
 
@@ -147,7 +149,7 @@ TARGET
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kamalesh-sudo&theme=tokyonight&border=e94560&ring=e94560&fire=f5a623&currStreakLabel=e94560" />
+<img src="https://streak-stats.demolab.com/?user=kamalesh-sudo&theme=tokyonight&border=e94560&ring=e94560&fire=f5a623&currStreakLabel=e94560"/>
 
 <br/>
 
@@ -161,7 +163,9 @@ TARGET
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kamalesh-sudo&theme=radical&no-frame=false&no-bg=false&margin-w=6&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=kamalesh-sudo&theme=radical&no-frame=false&no-bg=false&margin-w=6&row=1"/>
+</a>
 
 </div>
 
