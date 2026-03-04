@@ -78,10 +78,10 @@ class Kamalesh:
 ### 🔐 Security & Pentesting *(hands-on experience)*
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Gobuster](https://img.shields.io/badge/Gobuster-000?style=for-the-badge&logo=go&logoColor=white)
-![ffuf](https://img.shields.io/badge/ffuf-005C84?style=for-the-badge&logo=fastapi&logoColor=white)
-![Nikto](https://img.shields.io/badge/Nikto-CC0000?style=for-the-badge&logo=nginx&logoColor=white)
+<!-- ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) -->
+<!-- ![Gobuster](https://img.shields.io/badge/Gobuster-000?style=for-the-badge&logo=go&logoColor=white) -->
+<!-- ![ffuf](https://img.shields.io/badge/ffuf-005C84?style=for-the-badge&logo=fastapi&logoColor=white) -->
+<!-- ![Nikto](https://img.shields.io/badge/Nikto-CC0000?style=for-the-badge&logo=nginx&logoColor=white) -->
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549e?style=for-the-badge&logo=owasp&logoColor=white)
 
 ### 🚀 DevSecOps — Learning & Building
