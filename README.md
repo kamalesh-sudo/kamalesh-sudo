@@ -96,8 +96,6 @@ DEVELOPING
    🔄 Burp Suite advanced workflows & extensions
    🔄 Authentication bypass techniques
    🔄 API security testing & exploitation
-   🔄 SQL Injection exploitation (Union-based, Blind, Time-based)
-   🔄 XSS payloads & WAF bypass techniques
 
 TARGET SKILLS
    🎯 Certified Ethical Hacker (CEH) / OSCP track
