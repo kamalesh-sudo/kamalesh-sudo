@@ -141,20 +141,6 @@ TARGET SKILLS
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=kamalesh-sudo&theme=radical&no-frame=false&no-bg=false&margin-w=6&row=1"/>
-</a>
-
-</div>
-
----
-
 ## 🤝 Connect
 
 <div align="center">
